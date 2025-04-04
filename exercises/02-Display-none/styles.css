@@ -1,4 +1,18 @@
 /* your code here */
 #myFirstH2{
-    visibility: visible;
+    visibility: hidden;
+}
+
+#mySecondH2{
+    display: none;
+}
+
+#myUL {
+    display: inline-flex;
+    list-style: none;
+    gap: 4px;
+}
+
+strong {
+    display: block;
 }
