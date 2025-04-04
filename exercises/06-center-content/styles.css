@@ -1,3 +1,12 @@
 body{
     background:blue;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    width: 400px;
+    /* margin: 0 auto; */
+    background-color: grey;
+    padding: 1rem;
 }
