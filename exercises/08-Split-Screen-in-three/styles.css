@@ -1,12 +1,18 @@
 body {
 	margin: 0;
 }
+#wrapper {
+	display: flex;
+}
 #sectionA {
 	background: blue;
+	flex: 1;
 }
 #sectionB {
 	background: red;
+	flex: 1;
 }
 #sectionC {
 	background: green;
+	flex: 1;
 }
